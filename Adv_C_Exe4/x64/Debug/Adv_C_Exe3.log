@@ -1,0 +1,15 @@
+﻿  Main.c
+C:\Users\Oran\Downloads\Main.c(84,12): warning C4098: 'countStudentsAndCourses': 'void' function returning a value
+C:\Users\Oran\Downloads\Main.c(133,12): warning C4047: 'return': 'char ***' differs in levels of indirection from 'int'
+C:\Users\Oran\Downloads\Main.c(141,13): warning C4047: 'return': 'char ***' differs in levels of indirection from 'int'
+C:\Users\Oran\Downloads\Main.c(158,16): warning C4047: 'return': 'char ***' differs in levels of indirection from 'int'
+C:\Users\Oran\Downloads\Main.c(150,11): warning C4101: 'tmpStr': unreferenced local variable
+C:\Users\Oran\Downloads\Main.c(175,12): warning C4098: 'factorGivenCourse': 'void' function returning a value
+C:\Users\Oran\Downloads\Main.c(292,12): warning C4047: 'return': 'Student *' differs in levels of indirection from 'int'
+C:\Users\Oran\Downloads\Main.c(310,16): warning C4047: '=': 'char' differs in levels of indirection from 'char [1]'
+C:\Users\Oran\Downloads\Main.c(320,13): warning C4047: 'return': 'Student *' differs in levels of indirection from 'int'
+C:\Users\Oran\Downloads\Main.c(333,17): warning C4047: '=': 'char' differs in levels of indirection from 'char [1]'
+C:\Users\Oran\Downloads\Main.c(299,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [1]'
+C:\Users\Oran\Downloads\Main.c(350,12): warning C4047: 'return': 'Student *' differs in levels of indirection from 'int'
+C:\Users\Oran\Downloads\Main.c(360,13): warning C4047: 'return': 'Student *' differs in levels of indirection from 'int'
+  Adv_C_Exe3.vcxproj -> C:\Users\Oran\Desktop\Programing\Semister 2\Q4\Adv_C_Exe3\x64\Debug\Adv_C_Exe3.exe

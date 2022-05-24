@@ -1,0 +1,16 @@
+﻿  Tests.c
+C:\Users\Oran\Desktop\Programing\Semister 2\Q4\Adv_C_Exe3\Adv_C_Exe3\Tests.c(84,12): warning C4098: 'countStudentsAndCourses': 'void' function returning a value
+C:\Users\Oran\Desktop\Programing\Semister 2\Q4\Adv_C_Exe3\Adv_C_Exe3\Tests.c(114,12): warning C4047: 'return': 'char ***' differs in levels of indirection from 'int'
+C:\Users\Oran\Desktop\Programing\Semister 2\Q4\Adv_C_Exe3\Adv_C_Exe3\Tests.c(122,13): warning C4047: 'return': 'char ***' differs in levels of indirection from 'int'
+C:\Users\Oran\Desktop\Programing\Semister 2\Q4\Adv_C_Exe3\Adv_C_Exe3\Tests.c(139,14): warning C4047: 'return': 'char ***' differs in levels of indirection from 'int'
+C:\Users\Oran\Desktop\Programing\Semister 2\Q4\Adv_C_Exe3\Adv_C_Exe3\Tests.c(131,9): warning C4101: 'tmpStr': unreferenced local variable
+C:\Users\Oran\Desktop\Programing\Semister 2\Q4\Adv_C_Exe3\Adv_C_Exe3\Tests.c(157,12): warning C4098: 'factorGivenCourse': 'void' function returning a value
+C:\Users\Oran\Desktop\Programing\Semister 2\Q4\Adv_C_Exe3\Adv_C_Exe3\Tests.c(226,12): warning C4047: 'return': 'Student *' differs in levels of indirection from 'int'
+C:\Users\Oran\Desktop\Programing\Semister 2\Q4\Adv_C_Exe3\Adv_C_Exe3\Tests.c(236,13): warning C4047: 'return': 'Student *' differs in levels of indirection from 'int'
+C:\Users\Oran\Desktop\Programing\Semister 2\Q4\Adv_C_Exe3\Adv_C_Exe3\Tests.c(304,12): warning C4047: 'return': 'Student *' differs in levels of indirection from 'int'
+C:\Users\Oran\Desktop\Programing\Semister 2\Q4\Adv_C_Exe3\Adv_C_Exe3\Tests.c(322,16): warning C4047: '=': 'char' differs in levels of indirection from 'char [1]'
+C:\Users\Oran\Desktop\Programing\Semister 2\Q4\Adv_C_Exe3\Adv_C_Exe3\Tests.c(332,13): warning C4047: 'return': 'Student *' differs in levels of indirection from 'int'
+C:\Users\Oran\Desktop\Programing\Semister 2\Q4\Adv_C_Exe3\Adv_C_Exe3\Tests.c(345,17): warning C4047: '=': 'char' differs in levels of indirection from 'char [1]'
+C:\Users\Oran\Desktop\Programing\Semister 2\Q4\Adv_C_Exe3\Adv_C_Exe3\Tests.c(311,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [1]'
+C:\Users\Oran\Desktop\Programing\Semister 2\Q4\Adv_C_Exe3\Adv_C_Exe3\Tests.c(361,30): warning C4047: '<': 'int' differs in levels of indirection from 'Student *'
+  Texts.vcxproj -> C:\Users\Oran\Desktop\Programing\Semister 2\Q4\Adv_C_Exe3\x64\Debug\Texts.exe
